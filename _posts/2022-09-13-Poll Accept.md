@@ -1,18 +1,14 @@
 ---
-title:  "20220913"
+title:  "Poll Accept"
 last_modified_at: 2022-09-13T09:00:00+09:00
 categories:
-  - Programming
+  - C
 tags: 
   - 
 
 ---
 
 
-1. Linux Health Check
-
 2. Poll Accept
-
-3. mutex lock, unlock
 
 
