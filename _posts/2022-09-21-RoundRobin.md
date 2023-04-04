@@ -22,7 +22,7 @@ tags:
 
 이 코드는 요청을 받아 각 서버에 순서대로 분배하는 기본적인 라운드 로빈 알고리즘 코드이다.
 
-```C
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
