@@ -15,7 +15,7 @@ docs:
   - title: Programming
     children:
       - title: "Programming"
-        url: /DevOps
+        url: /categories/DevOps
 
 # sidebar navigation list sample
 sidebar-sample:
