@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-CA"
 title                    : "캐나다 DevOps 개발자"
 title_separator          : "-"
 subtitle                 : "version 1.0"
-name                     : "Jay B"
-description              : "Server Engineer"
+name                     : "Jay"
+description              : "DevOps Engineer"
 url                      : "https://limjunbeom.github.io/jayb.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/LimJunBeom/jayb.github.io"
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "ljb960514@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,10 +122,10 @@ author:
     #  # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/LimJunBeom?tab=repositories"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/j_jay.000/"
 
 # Site Footer
 footer:
@@ -288,7 +288,7 @@ defaults:
       comments: true
       share: true
       related: true
-  
+
   # _pages
   - scope:
       path: "_pages"
