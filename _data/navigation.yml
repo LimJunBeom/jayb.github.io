@@ -10,6 +10,13 @@ main:
     url: /tags/
 
 
+# documentation links
+docs:
+  - title: Programming
+    children:
+      - title: "Programming"
+        url: /DevOps
+
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"
