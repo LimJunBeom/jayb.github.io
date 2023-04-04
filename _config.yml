@@ -288,8 +288,7 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar:
-        nav: "main"
+
 
   # _pages
   - scope:
@@ -298,3 +297,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "main"
