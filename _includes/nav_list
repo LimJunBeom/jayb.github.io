@@ -8,6 +8,7 @@
   <li> 전체 글 수 ({{sum}})개 </li>
   <ul class="nav__items">
     {% for nav in navigation %}
+
       <li>
         {% if nav.url %}
           <a href="{{ nav.url | relative_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
@@ -31,7 +32,7 @@
             {% endif %}
           {% endfor %}
 
-            <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}</a></li>
+            <li><a href="{{ child.url | relative_url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}({{ post_cnt }})</a></li>
           {% endfor %}
         </ul>
         {% endif %}
