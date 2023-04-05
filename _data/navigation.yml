@@ -9,3 +9,35 @@ main:
   - title: "Tags"
     url: /tags/
 
+# sidebar navigation list sample
+sidebar:
+  - title: "PROGRAMMING"
+    children:
+      - title: "Android"
+        url: /
+      - title: "C"
+        url: /
+      - title: "DevOps"
+        url: /
+      - title: "JAVA"
+        url: /
+      - title: "Linux"
+        url: /
+      - title: "PYTHON"
+        url: /
+      - title: "Raspberry Pi"
+        url: /
+      - title: "UI/UX"
+        url: /
+      - title: "MySQL"
+        url: /
+  - title: "CANADA"
+    children:
+      - title: "워킹홀리데이 (준비~합격)"
+        url: /
+      - title: "CV 작성"
+        url: /
+  - title: "ENGLISH"
+    children:
+      - title: "IELTS"
+        url: /
