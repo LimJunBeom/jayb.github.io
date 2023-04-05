@@ -14,30 +14,30 @@ sidebar:
   - title: "PROGRAMMING"
     children:
       - title: "Android"
-        url: /
+        url: /Android
       - title: "C"
-        url: /
+        url: /C
       - title: "DevOps"
-        url: /
+        url: /DevOps
       - title: "JAVA"
-        url: /
+        url: /Java
       - title: "Linux"
-        url: /
+        url: /Linux
       - title: "PYTHON"
-        url: /
+        url: /Python
       - title: "Raspberry Pi"
-        url: /
+        url: /Raspberry Pi
       - title: "UI/UX"
-        url: /
+        url: /UI/UX
       - title: "MySQL"
-        url: /
+        url: /MySQL
   - title: "CANADA"
     children:
       - title: "워킹홀리데이 (준비~합격)"
-        url: /
+        url: /Working Holiday
       - title: "CV 작성"
-        url: /
+        url: /CV
   - title: "ENGLISH"
     children:
       - title: "IELTS"
-        url: /
+        url: /IELTS
