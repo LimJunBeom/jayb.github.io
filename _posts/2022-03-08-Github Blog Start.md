@@ -2,7 +2,7 @@
 title:  "Github Blog Start"
 last_modified_at: 2022-03-08T00:00:00+09:00
 categories:
-  - Information
+  - ETC
 tags: 
   - 
 

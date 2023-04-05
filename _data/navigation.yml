@@ -15,29 +15,46 @@ sidebar:
     children:
       - title: "Android"
         url: /Android
+        category: "Android"
       - title: "C"
         url: /C
+        category: "C"
       - title: "DevOps"
         url: /DevOps
+        category: "DevOps"
       - title: "JAVA"
         url: /Java
+        category: "Java"
       - title: "Linux"
         url: /Linux
+        category: "Linux"
       - title: "PYTHON"
         url: /Python
+        category: "Python"
       - title: "Raspberry Pi"
-        url: /Raspberry Pi
+        url: /Raspberry-Pi
+        category: "Raspberry-Pi"
       - title: "UI/UX"
-        url: /UI/UX
+        url: /UIUX
+        category: "UIUX"
       - title: "MySQL"
         url: /MySQL
+        category: "MySQL"
   - title: "CANADA"
     children:
       - title: "워킹홀리데이 (준비~합격)"
-        url: /Working Holiday
+        url: /Working-Holiday
+        category: "Working-Holiday"
       - title: "CV 작성"
         url: /CV
+        category: "CV"
   - title: "ENGLISH"
     children:
       - title: "IELTS"
         url: /IELTS
+        category: "IELTS"
+  - title: "ETC"
+    children:
+      - title: "ETC"
+        url: /ETC
+        category: "ETC"

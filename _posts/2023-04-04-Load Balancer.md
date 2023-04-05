@@ -2,7 +2,7 @@
 title:  "Load Balancer"
 last_modified_at: 2023-04-04T18:00:00-04:00
 categories:
-  - Programming
+  - ETC
 tags: 
   - 
 
