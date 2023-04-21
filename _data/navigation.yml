@@ -11,6 +11,7 @@ main:
 
 # sidebar navigation list sample
 sidebar:
+
   - title: "PROGRAMMING"
     children:
       - title: "Android"
@@ -22,16 +23,16 @@ sidebar:
       - title: "DevOps"
         url: /DevOps
         category: "DevOps"
-      - title: "JAVA"
+      - title: "Java"
         url: /Java
         category: "Java"
       - title: "Linux"
         url: /Linux
         category: "Linux"
-      - title: "PYTHON"
+      - title: "Python"
         url: /Python
         category: "Python"
-      - title: "Raspberry Pi"
+      - title: "Raspberry-Pi"
         url: /Raspberry-Pi
         category: "Raspberry-Pi"
       - title: "UI/UX"
@@ -40,6 +41,7 @@ sidebar:
       - title: "MySQL"
         url: /MySQL
         category: "MySQL"
+
   - title: "CANADA"
     children:
       - title: "워킹홀리데이 (준비~합격)"
@@ -48,11 +50,13 @@ sidebar:
       - title: "CV 작성"
         url: /CV
         category: "CV"
+
   - title: "ENGLISH"
     children:
       - title: "IELTS"
         url: /IELTS
         category: "IELTS"
+
   - title: "ETC"
     children:
       - title: "ETC"
