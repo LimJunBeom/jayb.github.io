@@ -20,11 +20,11 @@ sidebar:
 
 ---
 
-Hi 👋 I'm Jay !! \
-Welcome to my GitHub Blog
-
-I want to become a DevOps Engineer 🧑‍💻 . \
-I mainly work on managing servers. \
-So, I'm familiar with using Linux Commands, and have experience with C programming. \
-I'm currently studying at Humber College with a major in Computer Systems Technician. \
-I'm actively looking for opportunities to grow in this field 😄
+Hi 👋 I'm Jay !!  
+Welcome to my GitHub Blog.  
+  
+I want to become a DevOps Engineer. 🧑‍💻  
+I mainly work on managing servers.  
+So, I'm familiar with using Linux Commands, and have experience with C programming.  
+I'm currently studying at Humber College with a major in Computer Systems Technician.  
+I'm actively looking for opportunities to grow in this field 😄  
