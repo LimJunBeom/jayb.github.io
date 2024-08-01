@@ -23,9 +23,8 @@ sidebar:
 Hi 👋 I'm Jay !! \
 Welcome to my GitHub Blog
 
-I'm a DevOps Engineer 🧑‍💻 . \
-And mainly worked by managing the servers. \
-So I'm familiar with using Linux Commands, and among the languages, use C well. \
-I'm actively looking for a job 😄
-
-I want to stay in Toronto as long as possible from March 2023 !!
+I want to become a DevOps Engineer 🧑‍💻 . \
+I mainly work on managing servers. \
+So, I'm familiar with using Linux Commands, and have experience with C programming. \
+I'm currently studying at Humber College with a major in Computer Systems Technician. \
+I'm actively looking for opportunities to grow in this field 😄
