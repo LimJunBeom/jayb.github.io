@@ -9,8 +9,7 @@ sidebar:
   nav: "sidebar"
 
 ---
-  
-  
+
 # 👋 Hi, I'm **Jay Lim**!
 
 Welcome to my GitHub Blog!  
